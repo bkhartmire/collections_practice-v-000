@@ -40,4 +40,3 @@ def add_s(array)
     element << "s" if index != 1
   end
 end
-    
